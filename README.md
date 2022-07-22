@@ -1,6 +1,6 @@
 # Financial_Statement_Analysis
 
-In this project it was used Yahoo Finance library to explore SP 500 stocks Financial Statement . It is basically create to give the investor some amount and important data to make decision based at this source.
+In this project it was used Yahoo Finance library to explore SP 500 stocks Financial Statement . It was basically created to give the investor some amount and important data to make decision based at this source.
 
 Primarily, it consists to choose into the select box any stocks from SP 500 and discover the last 4 quarterly period of Financial Statement,  shareholers and the recommendation of the diferents and important types Financial group.
 
