@@ -2,11 +2,7 @@
 
 In this project it was used Yahoo Finance library to explore SP 500 stocks Financial Statement . It was basically created to give the investor some amount and important data to make decision based at this source.
 
-Primarily, it consists to choose into the select box any stocks from SP 500 and discover the last 4 quarterly period of Financial Statement,  shareholers and the recommendation of the diferents and important types Financial group.
-
-# Disclamer: #
-
-This is not financial tool for personal investment decision is only for educational purpose.
+Primarily, it consists to choose into the select box any stocks from SP 500 and discover the last 4 quarterly period of Financial Statement, shareholders and the recommendation of the different and important types Financial group around the world.
 
 ## 💻 Libraries 💻
 * Python 3.9
